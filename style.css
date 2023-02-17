@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    text-align: center;
+    padding: 100px;
+}
+h1{
+    color: white;
+    font-size: 50px;
+}
+section{
+    color: white;
+    text-align:unset;
+    padding: 50px;
+    font-size: 30px;
+    
+}
+button{
+    background-color: #f8d615;
+    border: none;
+    color: black;
+    font-size: 16px;
+    padding: 50px;
+    cursor: pointer;
+    border-radius: 20px;
+    box-shadow: 5px 5px 11px;
+}
